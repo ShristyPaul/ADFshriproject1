@@ -1,0 +1,15 @@
+{
+	"name": "adfshristy",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "604ee229-1339-4b38-9752-cebd6a84ac26",
+		"tenantId": "b26951ca-9aea-4064-9afd-0f1ba0f12842"
+	}
+}
